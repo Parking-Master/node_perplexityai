@@ -1,0 +1,25 @@
+{
+  "name": "node_perplexityai",
+  "version": "1.0.1",
+  "description": "An unofficial API for Node.js based off of the Perplexity.AI website and mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parking-Master/node_perplexityai.git"
+  },
+  "keywords": [
+    "ai",
+    "nodejs",
+    "perplexityai",
+    "puppeteer"
+  ],
+  "author": "Parking Master <parkingmaster@mail.com> (https://parkingmaster.w3spaces.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parking-Master/node_perplexityai/issues"
+  },
+  "homepage": "https://github.com/Parking-Master/node_perplexityai#readme"
+}
