@@ -20,6 +20,7 @@ const perplexity = {
         if (!perplexity.categoryChange) {
           await perplexity.page.goto("https://www.perplexity.ai/");
         } else perplexity.categoryChange = false;
+        await perplexity.page.waitForSelector("textarea");
         await type("textarea", i.toString().trim());
         await click("button.bg-super.text-sm");
         let wait = setInterval(async () => {
