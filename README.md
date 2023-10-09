@@ -4,7 +4,7 @@
 ### [9/28/2023] Notice
 Cloudflare has made recent changes affecting bot-blockers like Puppeteer. This project is currently bugged and may not work. If anyone has suggestions or fixes, please let me know in the Issues section.
 
-I will try to fix this package every change I get, but for now, try using another AI service or use a python-compatable version of this package if available. Thank you for understanding and sorry for the inconvenience.
+I will try to fix this package every chance I get, but for now, try using another AI service or use a python-compatable version of this package if available. Thank you for understanding and sorry for the inconvenience.
 
 ## Intro
 This project is based off of an idea to make unofficial wrappers for AI sites that don't have an official API yet, and this idea is from the [`node_characterai`]() package.
